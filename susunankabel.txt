@@ -1,0 +1,17 @@
+Relay : 
+biru : gnd
+merah : 2
+putih : vcc / 5 v
+
+
+wifi :
+
+orange kiri : gnd
+orange kanan : 11
+abu + putih : 3v
+hitam : 10
+
+sensor : 
+hijau : vcc / 5 v
+biru : gnd
+kuning : A0
